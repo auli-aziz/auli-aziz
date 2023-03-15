@@ -1,6 +1,6 @@
 ### Hi there, I'm Aziz 👋
 
-- 😄 Highly interested in web developemt both front-end and back-end
+- 😄 Highly interested in web developemt, both front-end and back-end
 - 🌱 I’m currently learning mobile development
 - 🔭 I’m currently working on AUAV VTOL projects
 
