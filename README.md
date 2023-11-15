@@ -1,9 +1,5 @@
 ### Hi there, I'm Aziz 👋
 
-- 😄 Highly interested in web development, both front-end and back-end
-- 🌱 I’m currently learning mobile development
-- 🔭 I’m currently working on AUAV VTOL projects
-
 <!--
 **auli-aziz/auli-aziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
