@@ -1,6 +1,6 @@
 ### Hi there, I'm Aziz 👋
 
-[[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)](https://open.spotify.com/playlist/214Z5mnlSbV8OKhR9hcC5T?si=0f6dcc7f5b054c64)
+
 <!--
 **auli-aziz/auli-aziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
