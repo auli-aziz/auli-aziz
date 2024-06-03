@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Aziz</h1>
 <h3>About Me</h3>
-I'm a passionate computer engineering student with a strong interest in backend software engineering and a goal of becoming a proficient full-stack developer. I enjoy learning new technologies and applying my academic knowledge to build efficient, scalable applications. I also look forward to contributing to open source projects and collaborating with the community to create impactful software solutions.
+I'm a computer engineering student with a strong interest in backend software engineering and a goal of becoming a proficient full-stack developer. I enjoy learning new technologies and applying my academic knowledge to build efficient, scalable applications. I also look forward to contributing to open source projects and collaborating with the community to create impactful software solutions.
 <ul>
 <li>🎓 Computer Engineering Student</li>
 <li>🌐 Aspiring Full-Stack Developer</li>
