@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Aziz</h1>
+<h1 align="center">Hi 👋, I'm Aziz</h1>
 <h3>About Me</h3>
 I'm a computer engineering student with a strong interest in backend software engineering and a goal of becoming a proficient full-stack developer. I enjoy learning new technologies and applying my academic knowledge to build efficient, scalable applications. I also look forward to contributing to open source projects and collaborating with the community to create impactful software solutions.
 <ul>
@@ -7,7 +7,7 @@ I'm a computer engineering student with a strong interest in backend software en
 <li>💻 Backend Software Engineering Enthusiast</li>
 </ul>
 
-<h2 align="left">💻 Technologies I've used</h2>
+<h2 align="left">Technologies I've used</h2>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -35,7 +35,7 @@ I'm a computer engineering student with a strong interest in backend software en
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<h2 align="left">📈 Statistics</h2>
+<h2 align="left">Statistics</h2>
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=auli-aziz&show_icons=true&locale=en&layout=compact" alt="auli-aziz" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=auli-aziz&" alt="auli-aziz" /></p>
