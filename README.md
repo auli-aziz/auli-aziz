@@ -36,10 +36,10 @@ I'm a computer engineering student with a strong interest in backend software en
 
 <h2 align="left">Statistics</h2>
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=auli-aziz&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="auli-aziz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=auli-aziz&show_icons=true&locale=en&layout=donut&bg_color=transparent" alt="auli-aziz" /></p>
 </div>
 <h2 align="left">Activity</h2>
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=auli-aziz&theme=github_dark" alt="auli-aziz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=auli-aziz&bg_color=transparent" alt="auli-aziz" /></p>
 </div>
 
