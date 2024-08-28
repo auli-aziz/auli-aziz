@@ -1,9 +1,9 @@
 <h3>About Me</h3>
-A computer engineering student with an interest in backend software engineering and a goal of becoming a proficient full-stack developer. I enjoy learning new technologies and applying my academic knowledge to build efficient, scalable applications. I also look forward to contributing to open source projects and collaborating with the community to create impactful solutions.
+A computer engineering student with an interest in backend software engineering and a goal of becoming a proficient full-stack developer. I enjoy learning new technologies and applying my academic knowledge to build efficient, scalable applications. I also look forward to contributing in open source projects and collaborating with the community to create impactful solutions.
 <ul>
 <li>🎓 Computer Engineering Student</li>
 <li>🌐 Aspiring Full-Stack Developer</li>
-<li>💻 Backend Software Engineering Enthusiast</li>
+<li>💻 Backend Software Engineering Speacialist</li>
 </ul>
 
 <h2 align="left">Technologies I've used</h2>
@@ -32,7 +32,8 @@ A computer engineering student with an interest in backend software engineering 
 
 <h2 align="left">Statistics</h2>
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=auli-aziz&show_icons=true&locale=en&layout=donut&bg_color=transparent" alt="auli-aziz" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=auli-aziz&show_icons=true" alt="auli-aziz" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=auli-aziz&show_icons=true&locale=en&layout=donut&bg_color=transparent" alt="auli-aziz" /></p>
 </div>
 <h2 align="left">Activity</h2>
 <div align="center">
