@@ -34,7 +34,7 @@ A computer engineering student with an interest in backend software engineering 
 <div align="center">
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=auli-aziz&show_icons=true" alt="auli-aziz" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=auli-aziz&show_icons=true&locale=en&layout=donut&bg_color=transparent" alt="auli-aziz" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=auli-aziz&show_icons=true&locale=en&layout=compact&bg_color=transparent" alt="auli-aziz" />
 </div>
 </div>
 <h2 align="left">Activity</h2>
