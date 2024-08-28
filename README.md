@@ -3,7 +3,7 @@ A computer engineering student with an interest in backend software engineering 
 <ul>
 <li>🎓 Computer Engineering Student</li>
 <li>🌐 Aspiring Full-Stack Developer</li>
-<li>💻 Backend Software Engineering Speacialist</li>
+<li>💻 Backend Engineering Specialist</li>
 </ul>
 
 <h2 align="left">Technologies I've used</h2>
