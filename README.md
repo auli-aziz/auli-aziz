@@ -1,10 +1,5 @@
 <h3>About Me</h3>
-A computer engineering student with an interest in backend software engineering and a goal of becoming a proficient full-stack developer. I enjoy learning new technologies and applying my academic knowledge to build efficient, scalable applications. I also look forward to contributing in open source projects and collaborating with the community to create impactful solutions.
-<ul>
-<li>🎓 Computer Engineering Student</li>
-<li>🌐 Aspiring Full-Stack Developer</li>
-<li>💻 Backend Engineering Specialist</li>
-</ul>
+A computer engineering major who's more interested in higher level programming despite my degree being "lower-level".
 
 <h2 align="left">Technologies I've used</h2>
 
