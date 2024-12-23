@@ -1,5 +1,5 @@
 <h3>About Me</h3>
-A computer engineering major who's interested in higher level programming despite my degree being "lower-level". Besides getting a strong knowledge of computer networks from computer engineering, I'm also confident in my ability to make some meaningful applications such as websites and mobile apps. I am generally more interested toward projects in software engineering (Web Dev, Mobile Dev, Game Dev) and artificial intelligence. Let's collaborate and ace some projects!
+I'm a computer engineering major, and while my degree focuses more on the lower-level side, I'm really interested in diving into higher-level programming. I’ve got a solid understanding of computer networks, and I enjoy working on projects like websites and mobile apps. I'm especially excited about software engineering (Web Dev, Mobile Dev, Game Dev) and AI. Let’s collaborate and create something great together!
 
 <h2 align="left">🤓 Tech Stack</h2>
 
