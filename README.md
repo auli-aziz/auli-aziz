@@ -79,4 +79,4 @@ My name is Aziz and I'm a computer engineering major with a passion for higher-l
 <h2 align="left">Thanks for visiting!</h2>
 
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=0ptqavhj2m6etr33ez72kh7g1&count=1&width=600)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=0ptqavhj2m6etr33ez72kh7g1&count=2&width=600)
