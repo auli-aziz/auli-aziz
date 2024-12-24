@@ -6,12 +6,12 @@ I'm a computer engineering major, and while my degree focuses more on the lower-
 <h2 align="left">📊 Statistics</h2>
 <div align="center">
 <div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=auli-aziz&show_icons=true&theme=transparent" alt="auli-aziz" style="height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=auli-aziz&show_icons=true&theme=transparent&rank_icon=github" alt="auli-aziz" style="height: 200px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=auli-aziz&show_icons=true&locale=en&layout=compact&theme=transparent&langs_count=8" alt="auli-aziz" style="height: 200px;"/>
 </div>
 </div>
 <h2 align="left">🧑‍💻 Activity</h2>
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=auli-aziz&theme=transparent&rank_icon=github" alt="auli-aziz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=auli-aziz&theme=transparent" alt="auli-aziz" /></p>
 </div>
 
