@@ -80,5 +80,3 @@ My name is Aziz and I'm a computer engineering major with a passion for higher-l
 
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=0ptqavhj2m6etr33ez72kh7g1&count=1&width=600)
-
-<img src="https://raw.githubusercontent.com/auli-aziz/auli-aziz/output/snake.svg" alt="Snake animation" />
