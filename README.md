@@ -12,7 +12,7 @@ I'm a computer engineering major, and while my degree focuses more on the lower-
 </div>
 <h2 align="left">🧑‍💻 Activity</h2>
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=auli-aziz&theme=transparent)](https://git.io/streak-stats)
+[GitHub Streak](https://streak-stats.demolab.com/?user=auli-aziz&theme=transparent)
 
 </div>
 
